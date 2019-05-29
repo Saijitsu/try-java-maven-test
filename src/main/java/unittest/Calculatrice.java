@@ -8,4 +8,8 @@ public class Calculatrice {
 		}
 		return a / b;
 	}
+
+	public static int additionne(int a, int b) {
+		return a + b;
+	}
 }

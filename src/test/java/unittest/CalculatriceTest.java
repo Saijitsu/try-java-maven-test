@@ -21,7 +21,7 @@ public class CalculatriceTest {
 	public void diviseTest2() throws MonException {
 		Assert.assertEquals(3, Calculatrice.divise(6, 0));
 	}
-	
+
 	@Test
 	public void diviseTest4() throws MonException {
 		Assert.assertEquals(3, Calculatrice.divise(6, 2));
